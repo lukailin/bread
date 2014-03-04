@@ -1,0 +1,46 @@
+html { 
+	margin: 0;
+	background-image: url('pineapple-bun.gif');
+	background-repeat: repeat-x;
+}
+
+body {
+	font-family: 'Comfortaa', cursive; 
+	font-weight: 300;
+}
+
+#title {
+	color: #AB776A;
+	margin:0;
+	position:absolute;
+	text-align: left;
+	padding-left: 50px;
+	padding-top: 10px;
+}
+
+#header_container {
+	background-color: #FFF;
+	top: 0;
+	left: 0;
+	right:0;
+	position: absolute;
+	height: 60px;
+	width: 100%;
+}
+
+#header {
+	line-height: 20px;
+	margin: 0, auto;
+	padding-top:10px;
+	padding-right: 20px;
+	width: 100%;
+	text-align: right;
+	color: #FF8C6D;
+}
+
+
+li {
+	list-style-type: none;
+	display: inline;
+	padding-right: 40px;
+}
